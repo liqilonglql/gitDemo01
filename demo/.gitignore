@@ -19,6 +19,8 @@ target/
 *.iml
 *.ipr
 *.txt
+mvnw
+mvnw.cmd
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
