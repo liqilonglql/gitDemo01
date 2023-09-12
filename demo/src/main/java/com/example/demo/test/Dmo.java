@@ -8,8 +8,7 @@ public class Dmo {
         user.setAge(18);
         user.setName("wangwu");
         user.setSex("nv");
-        user.setAge(19)
-        System.out.println("user = " + user);
+        System.out.println("轻舟已过万重山");
     }
 
 }
