@@ -8,6 +8,8 @@ public class Dmo {
         user.setAge(18);
         user.setName("wangwu");
         user.setSex("nan");
+        System.out.println(user);
+        System.out.println("user = " + user);
     }
 
 }
